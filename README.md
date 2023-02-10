@@ -73,9 +73,9 @@ Clone to use
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[edit tasks feature]**
-- [ ] **[add/remove tasks]**
-- [ ] **[mark tasks as completed]**
+- [ ] **[double dice]**
+- [ ] **[animation on roll]**
+- [ ] **[save rolled digit]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
