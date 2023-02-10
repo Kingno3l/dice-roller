@@ -1,7 +1,11 @@
 <a name="readme-top"></a>
 
 <div align="center">
+  <img src="dpx.jpg" alt="logo" width="auto"  height="auto" />
+  <br/>
+
   <h3><b>DICE ROLLER APP</b></h3>
+
 </div>
 
 # 📗 Table of Contents
